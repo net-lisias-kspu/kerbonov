@@ -1,0 +1,5 @@
+2.0.0
+	Adoption by Linuxgurugamer
+	Tags added to all parts
+	RCS updated to use ModuleRCSFX
+	Merged in changes from @Mecripp
