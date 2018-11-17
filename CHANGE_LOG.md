@@ -1,5 +1,7 @@
 # kerbonov-parts-pack :: Change Log
 
+* 2016-0112 : 1.1.1 (Darkona) for KSP 1.0.5
+	+ No change log provided
 * 2015-0509: 15.5.9 (Sam_Hall) for KSP 1.0.0
 	+ uPDATE 5/15: fixed compatability with 1.0. Converted textures to .dds format.
 	+ Some changes to file and folder names, so DEFINITELY delete any previous
