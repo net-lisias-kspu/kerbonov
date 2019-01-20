@@ -1,3 +1,6 @@
+2.0.1
+	Added missing bulkheadProfiles
+	
 2.0.0
 	Adoption by Linuxgurugamer
 	Tags added to all parts
