@@ -1,5 +1,7 @@
 # kerbonov-parts-pack :: Change Log
 
+* 2018-1116: 2.0.0 (LinuxGuruGamer) for KSP 1.5.1
+	+ No changelog provided
 * 2016-1225: 12 (Sam_Hall) for KSP 1.2.0
 	+ UPDATE 12/2016
 	+ Many changes this time:
