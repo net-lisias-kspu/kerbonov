@@ -1,5 +1,7 @@
 # kerbonov-parts-pack :: Change Log
 
+* 2019-0120: 2.0.1 (LinuxGuruGamer) for KSP 1.6.1
+	+ Added missing bulkheadProfiles
 * 2019-0109: 2.0.0.1 (LinuxGuruGamer) for KSP 1.6.0
 	+ No changelog provided
 * 2018-1116: 2.0.0 (LinuxGuruGamer) for KSP 1.5.1
