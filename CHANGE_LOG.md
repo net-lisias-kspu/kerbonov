@@ -1,5 +1,7 @@
 # kerbonov-parts-pack :: Change Log
 
+* 2019-0307: 2.0.1.1 (LinuxGuruGamer) for KSP 1.6.1
+	+ Added whitelist file for the new ReStock mod
 * 2019-0120: 2.0.1 (LinuxGuruGamer) for KSP 1.6.1
 	+ Added missing bulkheadProfiles
 * 2019-0109: 2.0.0.1 (LinuxGuruGamer) for KSP 1.6.0
