@@ -1,5 +1,10 @@
 ChangeLog
 
+2.0.2.1
+	Updated for 1.9
+		Added copy of more deprecated textures for the Rockomax X200-4, and
+		updated that part for the copied files
+
 2.0.2
 	Updated for KSP 1.8
 

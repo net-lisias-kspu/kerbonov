@@ -18,6 +18,9 @@ cd Squad
 mkdir fuelTankT800_v1
 copy ..\..\Squad\zDeprecated\Parts\FuelTank\fuelTankT800_v1\model000.dds fuelTankT800_v1
 copy ..\..\Squad\zDeprecated\Parts\FuelTank\fuelTankT800_v1\model001.dds fuelTankT800_v1
+mkdir fuelTankX200-16
+copy ..\..\Squad\zDeprecated\Parts\FuelTank\fuelTankX200-16\model000.dds fuelTankX200-16
+copy ..\..\Squad\zDeprecated\Parts\FuelTank\fuelTankX200-16\model001.dds fuelTankX200-16
 
 echo.
 echo.
