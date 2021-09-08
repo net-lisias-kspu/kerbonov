@@ -26,4 +26,5 @@ You are authorised to fork this repository under GitHub [ToS](https://help.githu
     + [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179841-*/)
     + [SpaceDock](https://spacedock.info/mod/2007/Kerbonov%20Kn-2%20Cockpit%20Module)
     + [Github](https://github.com/linuxgurugamer/Kerbonov)
-	
+* [Deimos790](https://github.com/deimos790) Parallel Fork?
+	+ [Github](https://github.com/deimos790/Kerbonov_Kontinued)
