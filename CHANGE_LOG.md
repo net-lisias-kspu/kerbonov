@@ -1,5 +1,9 @@
 # Kerbonov Parts Pack :: Change Log
 
+* 2020-0415: 2.0.2.1 (linuxgurugamer) for KSP 1.9.1
+	+ Updated for 1.9
+		- Added copy of more deprecated textures for the Rockomax X200-4, and
+		- updated that part for the copied files
 * 2019-1201: 2.0.2 (linuxgurugamer) for KSP 1.8.1
 	+ Updated for KSP 1.8
 * 2019-0826: 2.0.1.2 (LinuxGuruGamer) for KSP 1.7.3
