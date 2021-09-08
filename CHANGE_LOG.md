@@ -1,5 +1,7 @@
 # Kerbonov Parts Pack :: Change Log
 
+* 2019-1201: 2.0.2 (linuxgurugamer) for KSP 1.8.1
+	+ Updated for KSP 1.8
 * 2019-0826: 2.0.1.2 (LinuxGuruGamer) for KSP 1.7.3
 	+ Version bump
 * 2019-0307: 2.0.1.1 (LinuxGuruGamer) for KSP 1.6.1
