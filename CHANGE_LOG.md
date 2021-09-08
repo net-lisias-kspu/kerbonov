@@ -1,4 +1,4 @@
-# kerbonov-parts-pack :: Change Log
+# Kerbonov Parts Pack :: Change Log
 
 * 2019-0826: 2.0.1.2 (LinuxGuruGamer) for KSP 1.7.3
 	+ Version bump
