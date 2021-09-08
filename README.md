@@ -10,6 +10,11 @@ This is an unofficial, non authorised repository for **Kerbonov Parts Pack** for
 * [Change Log](./CHANGE_LOG.md)
 
 
+## License
+
+Licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
+You are authorised to fork this repository under GitHub [ToS](https://help.github.com/articles/github-terms-of-service/).
 
 
 ## References
